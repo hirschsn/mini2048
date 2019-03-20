@@ -1,5 +1,5 @@
 # Mini2048
-Minimal, terminal-based C implementation of the popular game 2048.
+Minimal, terminal-based clone of the popular game 2048 written in C.
 Should work on any POSIX-compatible system. (For others, e.g. Windows, remove the termios stuff and the ANSI color sequences.)
 
 ![screenshot](https://raw.githubusercontent.com/hirschsn/mini2048/master/screenshot.png)
